@@ -17,15 +17,19 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
   •	Google Play Services
 
+
 Log Data
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
 Cookies
+
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
 This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
+
 Service Providers
+
 I may employ third-party companies and individuals due to the following reasons:
 •	To facilitate our Service;
 •	To provide the Service on our behalf;
@@ -34,21 +38,29 @@ I may employ third-party companies and individuals due to the following reasons:
 
 I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
+
 Security
+
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
+
 Links to Other Sites
+
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
+
 Privacy for ADS
+
 This Privacy Policy explains how we collect, use, and disclose personal and non-personal information when you use our mobile application that displays ads from AdMob, a mobile advertising platform provided by Google. By using our application, you consent to the collection, use, and disclosure of your information as described in this Privacy Policy.
 
 1. Types of Information We Collect
 
 1.1 Personal Information:
+
 We do not directly collect personal information from you. However, the AdMob platform may collect certain personal information such as unique device identifiers, IP address, and geolocation data for delivering personalized ads.
 
 1.2 Non-Personal Information:
+
 We may collect non-personal information automatically as you use our application, which may include but is not limited to device information, app usage statistics, and aggregated analytics data. This information is used to analyze trends, improve the application, and optimize ad performance.
 
 2. Data Collection Methods
