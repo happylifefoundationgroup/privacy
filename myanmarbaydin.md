@@ -45,6 +45,46 @@ Links to Other Sites
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
+Privacy for ads
+This Privacy Policy explains how we collect, use, and disclose personal and non-personal information when you use our mobile application that displays ads from AdMob, a mobile advertising platform provided by Google. By using our application, you consent to the collection, use, and disclosure of your information as described in this Privacy Policy.
+
+1. Types of Information We Collect
+
+1.1 Personal Information:
+We do not directly collect personal information from you. However, the AdMob platform may collect certain personal information such as unique device identifiers, IP address, and geolocation data for delivering personalized ads.
+
+1.2 Non-Personal Information:
+We may collect non-personal information automatically as you use our application, which may include but is not limited to device information, app usage statistics, and aggregated analytics data. This information is used to analyze trends, improve the application, and optimize ad performance.
+
+2. Data Collection Methods
+
+We and AdMob may use cookies, advertising identifiers, and similar technologies to collect information about your device and usage patterns. These technologies help us deliver targeted ads and track ad performance.
+
+3. Purpose of Data Collection
+
+We collect and use the information described above for the following purposes:
+- To provide and improve our mobile application
+- To deliver personalized ads based on your interests and preferences
+- To analyze application usage trends and optimize ad performance
+- To comply with legal obligations and enforce our rights
+
+4. Data Sharing and Disclosure
+
+We may share non-personal information with trusted third-party service providers to assist us in analyzing app usage and delivering ads. AdMob may also share personal information with its partners for ad delivery and measurement purposes. Please refer to AdMob's privacy policy for more information about their data practices.
+
+5. User Rights and Choices
+
+You have the right to control certain aspects of data processing, including personalized ads. You can manage your ad personalization settings through your device settings or by using Google's Ad Settings.
+
+6. Data Security
+
+We take reasonable measures to protect the information we collect and store from unauthorized access, disclosure, alteration, or destruction. However, please note that no method of data transmission or storage is completely secure, and we cannot guarantee the absolute security of your information.
+
+7. GDPR Consent Message
+
+By using our application, you consent to the collection, use, and disclosure of your information as described in this Privacy Policy. If you do not agree with this Privacy Policy or the data processing activities described herein, please refrain from using our application.
+
+
 Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
